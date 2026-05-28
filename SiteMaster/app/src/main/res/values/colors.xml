@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="screen_bg">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+
+    <!-- Text colours -->
+    <color name="text_dark">#191922</color>
+    <color name="text_muted">#6F6B7D</color>
+
+    <!-- Brand colours -->
+    <color name="purple">#4F3AF2</color>
+    <color name="purple_light">#EFECFF</color>
+
+
+    <color name="line">#E3E0F0</color>
+
+    <!-- Status colours -->
+    <color name="green">#1DA85B</color>
+    <color name="red">#D64350</color>
+    <color name="orange">#F59A23</color>
+
+</resources>
